@@ -1,13 +1,13 @@
-# Documentation Issue Template
+# Plantilla de Issue de Documentación
 
-## Description
-Describe the documentation issue or improvement request.
+## Descripción
+Describa el problema o solicitud de mejora en la documentación.
 
-## Problem Statement
-What documentation is missing, unclear, or needs updating?
+## Declaración del Problema
+¿Qué documentación falta, es poco clara o necesita actualizarse?
 
-## Suggested Solution
-What changes should be made to improve the documentation?
+## Solución Sugerida
+¿Qué cambios deberían hacerse para mejorar la documentación?
 
-## Additional Context
-Any additional information, links, or references.
+## Contexto Adicional
+Cualquier información adicional, enlaces o referencias.
