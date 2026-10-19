@@ -1,3 +1,10 @@
+---
+name: Documentación
+about: Reportar un problema o sugerir una mejora de documentación
+title: "[DOCS]"
+labels: documentation
+---
+
 # Plantilla de Issue de Documentación
 
 ## Descripción
